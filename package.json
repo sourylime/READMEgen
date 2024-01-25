@@ -1,5 +1,5 @@
-# READMEgen
-"name": "readmegen",
+{
+  "name": "readmegen",
   "version": "1.0.0",
   "description": "Generates a README file",
   "main": "index.js",
@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sourylime/READMEgen"
+    "url": "git+ssh://git@github.com/sourylime/READMEgen.git"
   },
   "bugs": {
     "url": "https://github.com/sourylime/READMEgen/issues"
   },
   "homepage": "https://github.com/sourylime/READMEgen#readme"
-
+}
